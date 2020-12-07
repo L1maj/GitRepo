@@ -2,3 +2,4 @@ zeus
 atena
 Vegeta
 Broly
+Freeza
